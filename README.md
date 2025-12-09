@@ -1,1 +1,1 @@
-Use v12.06. Follow "Upgrade Procedure" pdf file.
+Use v12.07. Follow "Upgrade Procedure" pdf file.
